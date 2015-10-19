@@ -6,3 +6,4 @@ Import these two as two different projects to experiment and see how Handlers / 
 Environment :
 Eclipse Mars / JDK7 
 
+Thanks to : http://www.mkyong.com/webservices/jax-ws/jax-ws-soap-handler-in-server-side/ 
